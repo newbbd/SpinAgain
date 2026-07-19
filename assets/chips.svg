@@ -1,16 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title">
-<title id="title">Doodled casino chips</title>
-<g fill="white" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-  <ellipse cx="177" cy="126" rx="82" ry="31"/><path d="M95 126 L95 224 Q177 270 259 224 L259 126"/>
-  <ellipse cx="177" cy="158" rx="82" ry="31"/><ellipse cx="177" cy="191" rx="82" ry="31"/><ellipse cx="177" cy="224" rx="82" ry="31"/>
-  <ellipse cx="95" cy="281" rx="66" ry="28" transform="rotate(-7 95 281)"/>
-  <ellipse cx="301" cy="264" rx="66" ry="28" transform="rotate(11 301 264)"/>
-  <ellipse cx="255" cy="330" rx="66" ry="28" transform="rotate(-4 255 330)"/>
+<title id="title">really bad chips doodle</title>
+<rect width="420" height="420" fill="#fff"/>
+<g fill="#fff" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="176" cy="125" rx="82" ry="29"/>
+  <path d="M94 125 L94 223 Q177 270 259 223 L259 125"/>
+  <ellipse cx="176" cy="158" rx="82" ry="29"/>
+  <ellipse cx="176" cy="191" rx="82" ry="29"/>
+  <ellipse cx="176" cy="223" rx="82" ry="29"/>
+  <ellipse cx="96" cy="282" rx="67" ry="28" transform="rotate(-8 96 282)"/>
+  <ellipse cx="302" cy="262" rx="67" ry="28" transform="rotate(11 302 262)"/>
+  <ellipse cx="254" cy="329" rx="67" ry="28" transform="rotate(-5 254 329)"/>
 </g>
 <g fill="none" stroke="#111" stroke-width="4" stroke-linecap="round">
-  <path d="M112 112 l13 29 M150 99 l5 35 M198 97 l-7 37 M234 109 l-17 31"/>
-  <path d="M43 270 l15 27 M73 257 l7 33 M113 253 l-3 33 M143 264 l-13 27"/>
-  <path d="M249 247 l14 29 M281 237 l6 34 M320 242 l-4 33 M348 256 l-14 26"/>
-  <path d="M204 316 l15 28 M238 304 l7 35 M278 305 l-4 34 M309 317 l-14 27"/>
+  <path d="M111 111 l13 29 M150 100 l5 34 M198 98 l-6 37 M233 110 l-16 30"/>
+  <path d="M42 271 l16 26 M74 258 l7 33 M113 254 l-2 32 M144 264 l-12 27"/>
+  <path d="M250 247 l14 28 M283 238 l5 34 M320 242 l-4 33 M347 257 l-14 25"/>
+  <path d="M202 315 l16 29 M240 304 l6 35 M277 305 l-4 34 M309 317 l-14 26"/>
 </g>
 </svg>
