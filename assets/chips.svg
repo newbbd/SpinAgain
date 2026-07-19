@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title">
+<title id="title">Doodled casino chips</title>
+<g fill="white" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="177" cy="126" rx="82" ry="31"/><path d="M95 126 L95 224 Q177 270 259 224 L259 126"/>
+  <ellipse cx="177" cy="158" rx="82" ry="31"/><ellipse cx="177" cy="191" rx="82" ry="31"/><ellipse cx="177" cy="224" rx="82" ry="31"/>
+  <ellipse cx="95" cy="281" rx="66" ry="28" transform="rotate(-7 95 281)"/>
+  <ellipse cx="301" cy="264" rx="66" ry="28" transform="rotate(11 301 264)"/>
+  <ellipse cx="255" cy="330" rx="66" ry="28" transform="rotate(-4 255 330)"/>
+</g>
+<g fill="none" stroke="#111" stroke-width="4" stroke-linecap="round">
+  <path d="M112 112 l13 29 M150 99 l5 35 M198 97 l-7 37 M234 109 l-17 31"/>
+  <path d="M43 270 l15 27 M73 257 l7 33 M113 253 l-3 33 M143 264 l-13 27"/>
+  <path d="M249 247 l14 29 M281 237 l6 34 M320 242 l-4 33 M348 256 l-14 26"/>
+  <path d="M204 316 l15 28 M238 304 l7 35 M278 305 l-4 34 M309 317 l-14 27"/>
+</g>
+</svg>
