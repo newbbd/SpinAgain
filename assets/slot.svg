@@ -1,22 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title">
-<title id="title">Doodled slot machine</title>
-<g fill="white" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M94 112 Q100 57 210 49 Q320 57 326 112 L326 343 Q326 371 300 371 L120 371 Q94 371 94 343 Z"/>
-  <path d="M113 91 Q142 64 210 63 Q278 64 307 91 L307 119 L113 119 Z"/>
-  <path d="M118 141 L302 141 L302 257 L118 257 Z"/>
-  <path d="M179 141 L179 257 M241 141 L241 257"/>
-  <path d="M112 279 L307 279 L300 333 L121 333 Z"/>
-  <path d="M143 310 L276 310 L268 339 L151 339 Z"/>
-  <circle cx="151" cy="292" r="10"/><circle cx="210" cy="292" r="10"/><circle cx="269" cy="292" r="10"/>
-  <path d="M335 151 L365 107"/><circle cx="370" cy="97" r="17"/><path d="M334 151 Q350 164 347 185"/>
-  <path d="M189 86 L201 86 L210 66 L219 86 L240 89 L224 102 L228 119 L210 110 L192 119 L196 102 Z"/>
-</g>
-<g fill="none" stroke="#111" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M137 189 q15-16 28 0 q-4 20-14 20 q-10 0-14-20 M151 173 q7-11 17-4"/>
-  <text x="193" y="219" font-family="Arial Black, sans-serif" font-size="65" fill="#111" stroke="none">7</text>
-  <rect x="252" y="174" width="40" height="29" rx="3"/>
-  <text x="258" y="195" font-family="Arial Black, sans-serif" font-size="17" fill="#111" stroke="none">BAR</text>
-  <path d="M103 129 l14-6 M312 129 l-14-6 M117 354 l12 6 M301 354 l-12 6"/>
-  <path d="M345 82 l-12-14 M372 68 l1-18 M397 80 l14-13"/>
+<title id="title">really bad slot machine doodle</title>
+<rect width="420" height="420" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M101 79 C143 45 286 45 323 88 L318 347 C317 366 302 374 286 374 L129 375 C110 375 99 364 99 346 Z"/>
+  <path d="M124 128 L298 123 L297 248 L124 248 Z"/>
+  <path d="M181 123 L182 248 M238 123 L239 248"/>
+  <path d="M116 275 L304 275 L293 334 L125 335 Z"/>
+  <path d="M326 163 L356 120 L358 212"/>
+  <circle cx="360" cy="108" r="17"/>
+  <circle cx="152" cy="295" r="11"/><circle cx="211" cy="294" r="11"/><circle cx="268" cy="295" r="11"/>
+  <path d="M150 174 q5-18 20-8 q9 10 -2 25 q-11 10 -18 -3 q-6 -10 0 -14"/>
+  <text x="198" y="206" font-family="Arial, sans-serif" font-size="62" fill="#111" stroke="none">7</text>
+  <text x="249" y="193" font-family="Arial, sans-serif" font-size="22" fill="#111" stroke="none">BAR</text>
+  <path d="M197 83 l16 -18 l8 18 l19 5 l-18 11 l4 17 l-18 -10 l-15 10 l3 -18 l-17 -10 z"/>
+  <path d="M333 80 l-11 -12 M357 66 l0 -14 M381 79 l12 -12"/>
+  <path d="M115 352 l18 8 M286 351 l18 6"/>
 </g>
 </svg>
