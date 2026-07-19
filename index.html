@@ -3,13 +3,19 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Spin Again is a free, fake-money casino simulator with a hand-drawn doodle style.">
+  <meta name="description" content="Spin Again is a free, fake-money casino simulator with a clumsy MS Paint doodle style.">
   <meta name="theme-color" content="#ffffff">
   <title>Spin Again</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <noscript>This game needs JavaScript enabled.</noscript>
+
+  <div class="scribble-banner" role="note" aria-label="Site notice">
+    <span>VERY FAKE CASINO</span>
+    <span>DRAWN BAD ON PURPOSE</span>
+    <span>NO REAL MONEY</span>
+  </div>
 
   <header class="site-header">
     <button class="brand" type="button" data-route="home" aria-label="Go to the lobby">
@@ -36,6 +42,10 @@
     <button type="button" data-route="horses">Horse Race</button>
     <button type="button" data-route="stats">Stats</button>
   </nav>
+
+  <section class="subnav-note" aria-label="Project note">
+    <p><strong>Saved locally.</strong> No sign-in, no server, no payouts. Just fake cash and ugly doodles.</p>
+  </section>
 
   <main id="app" tabindex="-1"></main>
 
