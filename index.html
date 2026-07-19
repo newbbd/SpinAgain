@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Spin Again is a free, fake-money casino simulator with a hand-drawn doodle style.">
+  <meta name="theme-color" content="#ffffff">
+  <title>Spin Again</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <noscript>This game needs JavaScript enabled.</noscript>
+
+  <header class="site-header">
+    <button class="brand" type="button" data-route="home" aria-label="Go to the lobby">
+      <span class="brand-mark">SA</span>
+      <span>
+        <strong>Spin Again</strong>
+        <small>fake money only</small>
+      </span>
+    </button>
+
+    <div class="wallet" aria-label="Player wallet">
+      <span>Balance</span>
+      <strong id="balance">$1,000</strong>
+      <small id="profit-loss">Even</small>
+    </div>
+  </header>
+
+  <nav class="game-nav" aria-label="Game navigation">
+    <button type="button" data-route="home">Lobby</button>
+    <button type="button" data-route="slots">Slots</button>
+    <button type="button" data-route="blackjack">Blackjack</button>
+    <button type="button" data-route="roulette">Roulette</button>
+    <button type="button" data-route="coin">Coin Flip</button>
+    <button type="button" data-route="horses">Horse Race</button>
+    <button type="button" data-route="stats">Stats</button>
+  </nav>
+
+  <main id="app" tabindex="-1"></main>
+
+  <footer class="site-footer">
+    <p>Simulation only. No real money, prizes, purchases, or withdrawals.</p>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="assets.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
