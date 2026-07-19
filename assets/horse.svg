@@ -1,15 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title">
-<title id="title">Doodled racing horse</title>
-<g fill="white" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M103 229 Q124 165 206 170 Q248 171 276 142 Q298 117 327 127 Q357 138 365 169 Q371 194 352 207 Q336 218 314 207 L291 193 Q278 215 263 236 L296 265 Q312 280 302 294 Q292 308 277 296 L235 265 Q214 275 188 276 L154 318 Q142 332 128 321 Q117 312 128 295 L151 261 Q129 249 118 244 L81 276 Q66 289 53 277 Q42 265 58 250 Z"/>
-  <path d="M283 145 Q282 116 295 88 L310 124 Q323 103 341 93 L336 132"/>
-  <path d="M279 142 Q260 112 237 103 Q252 128 257 154 M246 116 Q221 102 201 108 Q225 124 238 145"/>
-  <path d="M104 225 Q71 203 48 205 Q70 219 88 232 Q57 230 36 241 Q70 246 104 238"/>
-  <path d="M194 170 L221 146 L260 154 L246 205 L201 205 Z"/>
-  <path d="M221 205 L214 250"/>
-  <path d="M306 150 Q326 158 347 160 M303 177 Q328 187 351 179"/>
+<title id="title">really bad horse doodle</title>
+<rect width="420" height="420" fill="#fff"/>
+<g fill="#fff" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M102 228 Q125 166 206 171 Q249 171 275 143 Q299 116 327 126 Q357 137 364 170 Q370 193 351 206 Q337 217 314 208 L291 193 Q279 215 262 236 L295 264 Q312 279 301 294 Q292 308 276 296 L235 264 Q216 276 189 276 L154 317 Q143 332 127 321 Q117 312 127 296 L151 261 Q128 247 118 244 L81 276 Q66 290 53 278 Q42 265 58 251 Z"/>
+  <path d="M282 146 Q283 116 295 89 L310 123 Q325 103 341 94 L336 132"/>
+  <path d="M278 143 Q259 112 238 103 Q253 127 257 155 M246 117 Q221 103 201 109 Q226 123 238 145"/>
+  <path d="M103 225 Q70 203 47 206 Q69 218 88 232 Q57 231 37 240 Q69 245 103 238"/>
+  <path d="M194 171 L221 146 L260 154 L245 204 L201 205 Z"/>
+  <path d="M221 205 L214 249"/>
+  <path d="M305 150 Q326 158 346 160 M302 176 Q328 186 350 180"/>
   <circle cx="331" cy="151" r="5" fill="#111"/>
-  <path d="M344 190 q8 5 14 0"/>
+  <path d="M345 191 q8 5 14 0"/>
 </g>
-<g fill="none" stroke="#111" stroke-width="4" stroke-linecap="round"><path d="M80 291 l-12 17 M123 315 l-10 17 M287 294 l10 18 M299 279 l13 14 M113 216 q38 12 62 44 M241 219 q14 10 21 25"/></g>
+<g fill="none" stroke="#111" stroke-width="4" stroke-linecap="round">
+  <path d="M81 291 l-12 17 M124 315 l-10 17 M288 294 l10 18 M299 279 l13 14 M114 216 q37 12 61 44 M242 219 q13 10 20 25"/>
+</g>
 </svg>
