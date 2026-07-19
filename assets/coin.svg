@@ -1,10 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title">
-<title id="title">Doodled flipping coin</title>
-<g fill="white" stroke="#111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-24 210 210)">
-  <ellipse cx="210" cy="210" rx="127" ry="78"/>
-  <path d="M84 210 L91 248 Q110 294 207 298 Q303 299 330 251 L337 210"/>
-  <ellipse cx="210" cy="210" rx="102" ry="58"/>
-  <path d="M113 249 l12 22 M141 260 l7 25 M174 267 l3 25 M209 269 l0 27 M246 266 l-3 25 M280 256 l-9 25 M309 242 l-13 23"/>
+<title id="title">really bad coin doodle</title>
+<rect width="420" height="420" fill="#fff"/>
+<g fill="#fff" stroke="#111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-21 210 210)">
+  <ellipse cx="210" cy="214" rx="128" ry="76"/>
+  <path d="M82 214 L88 249 Q107 294 209 298 Q307 301 335 250 L338 214"/>
+  <ellipse cx="211" cy="214" rx="100" ry="57"/>
+  <path d="M114 251 l12 21 M145 260 l8 24 M177 266 l3 24 M210 268 l0 26 M245 265 l-4 24 M279 255 l-8 25 M307 241 l-13 21"/>
 </g>
-<g fill="none" stroke="#111" stroke-width="7" stroke-linecap="round"><path d="M92 112 q44-46 95-47 M236 354 q58-3 99-47 M80 144 l-28 12 M350 276 l29-6"/></g>
+<g fill="none" stroke="#111" stroke-width="7" stroke-linecap="round">
+  <path d="M90 110 q46 -44 98 -46 M235 356 q62 -4 101 -47 M79 142 l-26 12 M350 275 l28 -7"/>
+</g>
 </svg>
