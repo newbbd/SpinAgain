@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title">
+<title id="title">Doodled roulette wheel</title>
+<g fill="white" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="210" cy="219" rx="168" ry="126"/>
+  <ellipse cx="210" cy="205" rx="150" ry="109"/>
+  <ellipse cx="210" cy="205" rx="108" ry="77"/>
+  <circle cx="210" cy="205" r="26"/>
+  <path d="M210 179 L210 127 M210 231 L210 283 M184 205 L132 205 M236 205 L288 205"/>
+  <circle cx="210" cy="121" r="12"/><circle cx="210" cy="289" r="12"/><circle cx="126" cy="205" r="12"/><circle cx="294" cy="205" r="12"/>
+  <path d="M210 179 L226 150 L241 170 M236 205 L270 190 L273 214 M210 231 L225 260 L198 263 M184 205 L151 221 L145 193"/>
+  <path d="M210 92 L210 318 M70 205 L350 205 M94 136 L326 274 M94 274 L326 136" opacity=".35"/>
+</g>
+<g fill="#111">
+  <path d="M104 130 Q119 112 136 101 L151 119 Q134 129 122 143 Z"/>
+  <path d="M167 99 Q190 92 211 93 L210 118 Q189 117 172 123 Z"/>
+  <path d="M258 105 Q282 116 300 133 L283 151 Q266 136 247 128 Z"/>
+  <path d="M315 165 Q325 185 327 205 L302 204 Q299 185 292 172 Z"/>
+  <path d="M311 242 Q301 263 284 279 L267 261 Q281 247 289 230 Z"/>
+  <path d="M239 292 Q218 299 197 296 L201 272 Q218 274 235 268 Z"/>
+  <path d="M153 286 Q131 275 116 259 L134 242 Q147 255 164 263 Z"/>
+  <path d="M95 225 Q91 204 96 184 L120 191 Q117 207 120 222 Z"/>
+</g>
+<g fill="none" stroke="#111" stroke-width="5" stroke-linecap="round"><path d="M65 311 q52 31 121 34 M238 347 q69-7 115-42"/></g>
+</svg>
