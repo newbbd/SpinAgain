@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title">
+<title id="title">Doodled blackjack cards and chips</title>
+<g fill="white" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="rotate(-13 155 190)"><rect x="82" y="78" width="145" height="225" rx="13"/><text x="99" y="118" font-family="Georgia,serif" font-size="38" fill="#111" stroke="none">10♠</text></g>
+  <g transform="rotate(-2 205 184)"><rect x="137" y="58" width="145" height="235" rx="13"/><text x="154" y="101" font-family="Georgia,serif" font-size="42" fill="#111" stroke="none">J♠</text></g>
+  <g transform="rotate(10 254 192)"><rect x="190" y="75" width="145" height="235" rx="13"/><text x="207" y="119" font-family="Georgia,serif" font-size="44" fill="#111" stroke="none">A♠</text><text x="235" y="220" font-family="Georgia,serif" font-size="92" fill="#111" stroke="none">♠</text></g>
+  <ellipse cx="126" cy="317" rx="67" ry="23"/><path d="M59 317 L59 346 Q126 374 193 346 L193 317"/>
+  <ellipse cx="126" cy="337" rx="67" ry="23"/>
+  <ellipse cx="287" cy="329" rx="55" ry="24" transform="rotate(-12 287 329)"/>
+</g>
+<g fill="none" stroke="#111" stroke-width="4"><path d="M78 311 l12 14 M104 299 l8 27 M143 297 l-5 30 M169 307 l-11 24 M252 320 l9 25 M280 306 l6 27 M312 309 l-4 28"/></g>
+</svg>
