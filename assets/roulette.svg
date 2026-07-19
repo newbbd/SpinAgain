@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title">
-<title id="title">Doodled roulette wheel</title>
-<g fill="white" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-  <ellipse cx="210" cy="219" rx="168" ry="126"/>
-  <ellipse cx="210" cy="205" rx="150" ry="109"/>
-  <ellipse cx="210" cy="205" rx="108" ry="77"/>
-  <circle cx="210" cy="205" r="26"/>
-  <path d="M210 179 L210 127 M210 231 L210 283 M184 205 L132 205 M236 205 L288 205"/>
-  <circle cx="210" cy="121" r="12"/><circle cx="210" cy="289" r="12"/><circle cx="126" cy="205" r="12"/><circle cx="294" cy="205" r="12"/>
-  <path d="M210 179 L226 150 L241 170 M236 205 L270 190 L273 214 M210 231 L225 260 L198 263 M184 205 L151 221 L145 193"/>
-  <path d="M210 92 L210 318 M70 205 L350 205 M94 136 L326 274 M94 274 L326 136" opacity=".35"/>
+<title id="title">really bad roulette wheel doodle</title>
+<rect width="420" height="420" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="210" cy="220" rx="165" ry="122"/>
+  <ellipse cx="210" cy="210" rx="145" ry="102"/>
+  <ellipse cx="210" cy="210" rx="102" ry="73"/>
+  <circle cx="210" cy="210" r="25"/>
+  <path d="M210 100 L210 320 M84 210 L336 210 M110 138 L309 282 M111 281 L309 138" opacity=".45"/>
+  <path d="M210 182 L229 150 L243 172 M238 210 L269 192 L274 217 M210 237 L226 264 L198 266 M183 210 L152 226 L146 193"/>
+  <circle cx="210" cy="123" r="10"/><circle cx="210" cy="297" r="10"/><circle cx="123" cy="210" r="10"/><circle cx="297" cy="210" r="10"/>
+  <path d="M70 313 q48 29 120 34 M239 349 q74 -7 113 -41"/>
 </g>
 <g fill="#111">
-  <path d="M104 130 Q119 112 136 101 L151 119 Q134 129 122 143 Z"/>
-  <path d="M167 99 Q190 92 211 93 L210 118 Q189 117 172 123 Z"/>
-  <path d="M258 105 Q282 116 300 133 L283 151 Q266 136 247 128 Z"/>
-  <path d="M315 165 Q325 185 327 205 L302 204 Q299 185 292 172 Z"/>
-  <path d="M311 242 Q301 263 284 279 L267 261 Q281 247 289 230 Z"/>
-  <path d="M239 292 Q218 299 197 296 L201 272 Q218 274 235 268 Z"/>
-  <path d="M153 286 Q131 275 116 259 L134 242 Q147 255 164 263 Z"/>
-  <path d="M95 225 Q91 204 96 184 L120 191 Q117 207 120 222 Z"/>
+  <path d="M106 135 l20 -20 l19 16 l-21 18 z"/>
+  <path d="M170 104 l36 -5 l0 24 l-28 2 z"/>
+  <path d="M256 107 l35 16 l-16 22 l-27 -15 z"/>
+  <path d="M310 169 l14 33 l-24 2 l-9 -26 z"/>
+  <path d="M308 245 l-20 28 l-18 -16 l16 -23 z"/>
+  <path d="M240 291 l-34 5 l-2 -24 l30 -4 z"/>
+  <path d="M152 283 l-29 -18 l16 -20 l24 14 z"/>
+  <path d="M99 227 l0 -33 l24 6 l0 21 z"/>
 </g>
-<g fill="none" stroke="#111" stroke-width="5" stroke-linecap="round"><path d="M65 311 q52 31 121 34 M238 347 q69-7 115-42"/></g>
 </svg>
